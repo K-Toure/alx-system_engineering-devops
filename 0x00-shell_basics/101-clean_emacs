@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo rm -v *.~ /tmp/u
+sudo rm -v * ~
