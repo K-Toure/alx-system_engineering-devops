@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent: staff tmp/
+chown -v vincent: vincent staff tmp/
